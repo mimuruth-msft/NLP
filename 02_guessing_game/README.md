@@ -7,7 +7,7 @@
 2. Read the input file as raw text. Calculate the lexical diversity of the tokenized text and output it, formatted to 2 decimal places. Lexical diversity is the number of unique tokens divided by the total number of tokens. Lexical diversity indicates the richness of vocabulary in a text. For example, a lexical diversity of 0.05 means that 5% of the words in a text are unique.
 3. Write a function to preprocess the raw text:
 
-    a. tokenize the lower-case raw text, reduce the tokens to only those that are alpha, not in the NLTK stopword list, and have length > 5  
+    3.1 tokenize the lower-case raw text, reduce the tokens to only those that are alpha, not in the NLTK stopword list, and have length > 5  
     b. lemmatize the tokens and use set() to make a list of unique lemmas  
     c. do pos tagging on the unique lemmas and print the first 20 tagged  
     d. create a list of only those lemmas that are nouns  
