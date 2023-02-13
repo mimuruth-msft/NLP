@@ -3,16 +3,16 @@
 ## Overview:
 
 ### Instructions:
-_1. Download the anat19.txt file from the GitHub and save it in the same folder as your Python program. The file is the text from one chapter of an anatomy textbook. Send the filename to the main program in a system argument. If no system arg is present, print an error message and exit the program.
-_2. Read the input file as raw text. Calculate the lexical diversity of the tokenized text and output it, formatted to 2 decimal places. Lexical diversity is the number of unique tokens divided by the total number of tokens. Lexical diversity indicates the richness of vocabulary in a text. For example, a lexical diversity of 0.05 means that 5% of the words in a text are unique.
-_3. Write a function to preprocess the raw text:
+1. Download the anat19.txt file from the GitHub and save it in the same folder as your Python program. The file is the text from one chapter of an anatomy textbook. Send the filename to the main program in a system argument. If no system arg is present, print an error message and exit the program.
+2. Read the input file as raw text. Calculate the lexical diversity of the tokenized text and output it, formatted to 2 decimal places. Lexical diversity is the number of unique tokens divided by the total number of tokens. Lexical diversity indicates the richness of vocabulary in a text. For example, a lexical diversity of 0.05 means that 5% of the words in a text are unique.
+3. Write a function to preprocess the raw text:
 
-  __a. tokenize the lower-case raw text, reduce the tokens to only those that are alpha, not in the NLTK stopword list, and have length > 5  
-  __b. lemmatize the tokens and use set() to make a list of unique lemmas  
-  c. do pos tagging on the unique lemmas and print the first 20 tagged  
-  d. create a list of only those lemmas that are nouns  
-  e. print the number of tokens (from step a) and the number of nouns (step d)  
-  f. return tokens (not unique tokens) from step a, and nouns from the function  
+  3a. tokenize the lower-case raw text, reduce the tokens to only those that are alpha, not in the NLTK stopword list, and have length > 5  
+  3b. lemmatize the tokens and use set() to make a list of unique lemmas  
+  3c. do pos tagging on the unique lemmas and print the first 20 tagged  
+  3d. create a list of only those lemmas that are nouns  
+  3e. print the number of tokens (from step a) and the number of nouns (step d)  
+  3f. return tokens (not unique tokens) from step a, and nouns from the function  
 
 4. Make a dictionary of {noun:count of noun in tokens} items from the nouns and tokens lists; sort the dict by count and print the 50 most common words and their counts. Save these words to a list because they will be used in the guessing game.
 5. Make a guessing game function:
