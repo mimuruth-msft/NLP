@@ -17,14 +17,14 @@
 4. Make a dictionary of {noun:count of noun in tokens} items from the nouns and tokens lists; sort the dict by count and print the 50 most common words and their counts. Save these words to a list because they will be used in the guessing game.
 5. Make a guessing game function:
 
-      > a. give the user 5 points to start with; the game ends when their total score is negative, or they guess ‘!’ as a letter  
-      > b. randomly choose one of the 50 words in the top 50 list (See the random numbers notebook in the Xtras folder of the GitHub)  
-      > c. output to console an “underscore space” for each letter in the word  
-      > d. ask the user for a letter  
-      > e. if the letter is in the word, print ‘Right!’, fill in all matching letter _ with the letter and add 1 point to their score  
-      > f. if the letter is not in the word, subtract 1 from their score, print ‘Sorry, guess again’  
-      > g. guessing for a word ends if the user guesses the word or has a negative score  
-      > h. keep a cumulative total score and end the game if it is negative (or the user entered ‘!’) for a guess  
+      *a. give the user 5 points to start with; the game ends when their total score is negative, or they guess ‘!’ as a letter  
+      *b. randomly choose one of the 50 words in the top 50 list (See the random numbers notebook in the Xtras folder of the GitHub)  
+      *c. output to console an “underscore space” for each letter in the word  
+      *d. ask the user for a letter  
+      *e. if the letter is in the word, print ‘Right!’, fill in all matching letter _ with the letter and add 1 point to their score  
+      *f. if the letter is not in the word, subtract 1 from their score, print ‘Sorry, guess again’  
+      *g. guessing for a word ends if the user guesses the word or has a negative score  
+      *h. keep a cumulative total score and end the game if it is negative (or the user entered ‘!’) for a guess  
 
 
 Open your favorite Terminal and run this command.
