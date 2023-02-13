@@ -29,4 +29,4 @@ h. keep a cumulative total score and end the game if it is negative (or the user
 
 Sample run of the game:
 
-<img src="sample_run.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="200" />
+<img src="sample_run.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="400" height="400" />
