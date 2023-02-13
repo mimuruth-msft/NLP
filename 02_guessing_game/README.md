@@ -13,9 +13,6 @@
     4. create a list of only those lemmas that are nouns  
     5. print the number of tokens (from step a) and the number of nouns (step d)  
     6. return tokens (not unique tokens) from step a, and nouns from the function  
-	
-<style type="text/css">
-    ol { list-style-type: upper-alpha; }
 
 4. Make a dictionary of {noun:count of noun in tokens} items from the nouns and tokens lists; sort the dict by count and print the 50 most common words and their counts. Save these words to a list because they will be used in the guessing game.
 5. Make a guessing game function:
@@ -29,7 +26,6 @@
       * g. guessing for a word ends if the user guesses the word or has a negative score  
       * h. keep a cumulative total score and end the game if it is negative (or the user entered ‘!’) for a guess  
 
-</style>
 
 Open your favorite Terminal and run this command.
 
