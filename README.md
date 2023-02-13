@@ -13,3 +13,7 @@ Deep Dive into NLP
 2. Remove stopwords using NLTK
 3. Lemmatization
 4. POS tagging with NLTK
+
+
+## Guessing Game
+[WordNet](07_WordNet)
