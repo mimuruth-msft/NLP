@@ -5,7 +5,7 @@ Deep Dive into NLP
 [NLP Overview](Overview%20of%20NLP.pdf)
 
 ## Guessing Game
-[Guessing Game](%02_Guessing_Game%)
+[Guessing Game](02_guessing_game)
 
 ### Topics Covered
 1. Tokenization
