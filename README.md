@@ -17,3 +17,7 @@ Deep Dive into NLP
 
 ## Guessing Game
 [WordNet](07_WordNet)
+
+
+## Guessing Game
+[Web Crawler](Web_Crawler)

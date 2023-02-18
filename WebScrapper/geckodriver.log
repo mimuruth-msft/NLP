@@ -1,0 +1,99 @@
+1676698042732	geckodriver	INFO	Listening on 127.0.0.1:56257
+1676698045773	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56258" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofilehlWS3E"
+1676698046177	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676698046182	Marionette	INFO	Listening on port 56283
+WebDriver BiDi listening on ws://127.0.0.1:56258
+Read port: 56283
+1676698046375	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofilehlWS3E\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56258/devtools/browser/b391d428-e881-4fe1-ba54-4636b383b800
+1676698392892	Marionette	INFO	Stopped listening on port 56283
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56501" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofilebdpSzO"
+1676698166526	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676698166530	Marionette	INFO	Listening on port 56515
+WebDriver BiDi listening on ws://127.0.0.1:56501
+Read port: 56515
+1676698166728	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofilebdpSzO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56501/devtools/browser/67350e3d-0484-41c8-bfae-a9f42d8561a7
+1676698392133	Marionette	INFO	Stopped listening on port 56515
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56740" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofiley8E1RH"
+1676698317801	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676698317805	Marionette	INFO	Listening on port 56755
+WebDriver BiDi listening on ws://127.0.0.1:56740
+Read port: 56755
+1676698317988	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofiley8E1RH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56740/devtools/browser/3fb64e2a-312c-41af-9c1d-0da16e5368ac
+1676698390733	Marionette	INFO	Stopped listening on port 56755
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56875" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileT370Cq"
+1676698342130	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676698342135	Marionette	INFO	Listening on port 56888
+WebDriver BiDi listening on ws://127.0.0.1:56875
+Read port: 56888
+1676698342328	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileT370Cq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56875/devtools/browser/d6906bd9-0c70-4621-a438-5d0090240e33
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6N6xbrRFdMEff8Jis_shwjAW5G8di4zE4BhK3Aw40Jc.js line 2 > eval line 4805 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6N6xbrRFdMEff8Jis_shwjAW5G8di4zE4BhK3Aw40Jc.js line 2 > eval line 3558 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/quantcastv2691176990399/moatad.js#moatClientLevel1=p-03ceqXq6mSzQk&moatClientLevel2=qfm&moatClientLevel3=d1947b43-807c-4dd6-ad1d-d5550ff6ce30&moatClientLevel4=bb7fd64f-d49e-47c8-9247-a9257160ed32&uid=5yX8oeMlqqDlJ6nwsnGo9-cjoKqzJK2lviOtouRzoPM5OD4k, line 262: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/quantcastv2691176990399/moatad.js#moatClientLevel1=p-03ceqXq6mSzQk&moatClientLevel2=qfm&moatClientLevel3=d1947b43-807c-4dd6-ad1d-d5550ff6ce30&moatClientLevel4=bb7fd64f-d49e-47c8-9247-a9257160ed32&uid=5yX8oeMlqqDlJ6nwsnGo9-cjoKqzJK2lviOtouRzoPM5OD4k, line 901: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6N6xbrRFdMEff8Jis_shwjAW5G8di4zE4BhK3Aw40Jc.js line 2 > eval line 2229 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6N6xbrRFdMEff8Jis_shwjAW5G8di4zE4BhK3Aw40Jc.js line 2 > eval line 3441 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6N6xbrRFdMEff8Jis_shwjAW5G8di4zE4BhK3Aw40Jc.js line 2 > eval line 860 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6N6xbrRFdMEff8Jis_shwjAW5G8di4zE4BhK3Aw40Jc.js line 2 > eval line 7467 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6N6xbrRFdMEff8Jis_shwjAW5G8di4zE4BhK3Aw40Jc.js line 2 > eval line 3024 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676698350273	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6N6xbrRFdMEff8Jis_shwjAW5G8di4zE4BhK3Aw40Jc.js line 2 > eval line 5677 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676698352090	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6N6xbrRFdMEff8Jis_shwjAW5G8di4zE4BhK3Aw40Jc.js line 2 > eval line 5934 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://cdn-magiclinks.trackonomics.net/client/static/v2/cr_dc21e.js, line 2: unreachable code after return statement
+JavaScript error: https://m3c5w5w9.stackpathcdn.com/wp-includes/js/jquery/jquery.min.js?ver=1668390940, line 2: Error: Syntax error, unrecognized expression: .
+1676698357194	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6N6xbrRFdMEff8Jis_shwjAW5G8di4zE4BhK3Aw40Jc.js line 2 > eval line 5480 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6N6xbrRFdMEff8Jis_shwjAW5G8di4zE4BhK3Aw40Jc.js line 2 > eval line 6206 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6N6xbrRFdMEff8Jis_shwjAW5G8di4zE4BhK3Aw40Jc.js line 2 > eval line 7171 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6N6xbrRFdMEff8Jis_shwjAW5G8di4zE4BhK3Aw40Jc.js line 2 > eval line 5659 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6N6xbrRFdMEff8Jis_shwjAW5G8di4zE4BhK3Aw40Jc.js line 2 > eval line 4604 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6N6xbrRFdMEff8Jis_shwjAW5G8di4zE4BhK3Aw40Jc.js line 2 > eval line 4054 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6N6xbrRFdMEff8Jis_shwjAW5G8di4zE4BhK3Aw40Jc.js line 2 > eval line 4719 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6N6xbrRFdMEff8Jis_shwjAW5G8di4zE4BhK3Aw40Jc.js line 2 > eval line 7033 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6N6xbrRFdMEff8Jis_shwjAW5G8di4zE4BhK3Aw40Jc.js line 2 > eval line 4765 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1676698388059	Marionette	INFO	Stopped listening on port 56888
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
