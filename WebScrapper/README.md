@@ -23,15 +23,15 @@
 
 1) **Topic Or Start URLs:** 
 
- -- <https://www.autoauctionmall.com/learning-center/used-cars/>
+     <https://www.autoauctionmall.com/learning-center/used-cars/>
 
--- <http://thefactfile.org/car-facts/>
+     <http://thefactfile.org/car-facts/>
 
-<https://www.a1autotransport.com/container-car-shipping-faq-and-answers/>
+     <https://www.a1autotransport.com/container-car-shipping-faq-and-answers/>
 
-<https://www.consumerreports.org/car-reliability/10-most-reliable-car>
+     <https://www.consumerreports.org/car-reliability/10-most-reliable-car>
 
-<https://www.caranddriver.com/first-drives/>
+     <https://www.caranddriver.com/first-drives/>
 
 These are a car selling website which lists several types of cars together with their model, year, type, and price. 
 
@@ -68,9 +68,9 @@ To make the data searchable, I included all the contents of the files into one f
 
 Sample screen shots of the knowledge base
 
-<img src="Knowledge_Base.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" height="300" />
+<img src="Knowledge_Base.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" />
 
 
 Sample dialog for the chatbot based on your knowledge base
 
-<img src="Sample_chatbot_dialogue.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" height="300" />
+<img src="Sample_chatbot_dialogue.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" />
