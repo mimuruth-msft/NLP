@@ -6,6 +6,7 @@
 - Be able to do web scraping with Beautiful Soup or other APIs
 - Create a web crawler
 
+
 **Instructions:**
 
 1. Build a web crawler function that starts with a URL representing a topic (a sport, your favorite film, a celebrity, a political issue, etc.) and outputs a list of at least 15 relevant URLs. The URLs can be pages within the original domain but should have a few outside. the original domain.
@@ -22,9 +23,9 @@
 
 1) **Topic Or Start URLs:** 
 
-<https://www.autoauctionmall.com/learning-center/used-cars/>
+ -- <https://www.autoauctionmall.com/learning-center/used-cars/>
 
-<http://thefactfile.org/car-facts/>
+-- <http://thefactfile.org/car-facts/>
 
 <https://www.a1autotransport.com/container-car-shipping-faq-and-answers/>
 
@@ -67,9 +68,9 @@ To make the data searchable, I included all the contents of the files into one f
 
 Sample screen shots of the knowledge base
 
-<img src="Knowledge_Base.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" height="900" />
+<img src="Knowledge_Base.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" height="300" />
 
 
 Sample dialog for the chatbot based on your knowledge base
 
-<img src="Sample_chatbot_dialogue.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" height="900" />
+<img src="Sample_chatbot_dialogue.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" height="300" />
