@@ -55,11 +55,15 @@ In addition, I created some other functions (methods) to further clean the extra
 
 In case you don’t have these modules, you can install them using this pip install commands.
 
-`	`pip install html2text
-
-`	`pip install nltk
-
-`	`pip install beautifulsoup4
+```sh
+pip install html2text
+```
+```sh
+pip install nltk
+```
+```sh
+pip install beautifulsoup4
+```
 
 1) **Making a searchable Knowledge base**
 
