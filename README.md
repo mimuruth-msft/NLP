@@ -21,3 +21,12 @@ Deep Dive into NLP
 
 ## Guessing Game
 [Web Crawler](Web_Crawler)
+
+
+## Guessing Game
+[Ngrams](8_N-grams)
+1. N-gram Models
+2. N-grams
+3. Smoothing
+4. N-grams for Language Generation
+5. Perplexity
