@@ -30,3 +30,10 @@ Deep Dive into NLP
 3. Smoothing
 4. N-grams for Language Generation
 5. Perplexity
+
+
+## 
+[Sentence Parsing](10_Syntax_and_Parsing)
+1. PSG Parse
+2. Dependency Parse
+3. SRL Parse
