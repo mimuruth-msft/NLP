@@ -59,9 +59,9 @@ Below are some examples of conversation questions:
 
 Sample chatbot dialogue:
 
-<img src="Sample_chatbot_dialogue.PNG" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" height="300" />
+<img src="Sample_chatbot_dialogue.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" height="300" />
 
 
 Knowledge Base:
 
-<img src="Knowledge_Base.PNG.jpg" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" height="300" />
+<img src="Knowledge_Base.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" height="300" />
