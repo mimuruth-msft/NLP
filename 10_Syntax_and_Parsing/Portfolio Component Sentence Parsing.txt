@@ -1,0 +1,99 @@
+Sentence Parsing
+
+2. 
+
+                                 S
+              ___________________________________________
+             |                   |                         |
+             |                   |                         |
+            SBAR                 ,                       VP
+             |                   |                 ______|_______
+             |                   |                |             |
+            S                   ADVP             VP            PP
+             |                   |          ____|___        ___|___
+             |                   |         |        |      |       |
+           NP-SBJ                RB        VB       NP     IN     NP-OBJ
+       _____|______              |         |     ___|___   |    ___|___
+      |            |             |         |    |      |   |   |       |
+     DT           NN             ,        met  some initial  resistance from
+     |            |             |         |      |      |   |   |       |
+  the new     software    implementation certain stakeholders   due   to 
+
+                      |                                        |
+                      |                                        |
+                      |                                        |
+                      NP                                      S
+                   ___|___                          __________|_________
+                  |       |                        |                  |
+                  |       |                        |                  |
+                  JJ      NN                      NP-SBJ              VP
+                  |       |                 ______|______        ____|____
+               comprehensive overhaul        |           |      |         |
+                                         existing    workflows   ,      resulting
+                                           |            |      |         |
+                                           |           NNS     IN        VBG
+                                           |            |      |         |
+                                           |         performance  in   improvement
+                                           |            |      |         |
+                                           |           NNP     NN        NN
+                                           |            |      |         |
+                                           |        metrics  productivity overall
+                                           |            |      |         |
+                                           |           (.)    (.)       (.)
+
+
+
+
+
+
+3.         met(v)  
+           |        
+    +------+------+
+    |             |
+   NP-SBJ(v)      NP-OBJ(prep_to)   
+    |             |        
+    |             +------------------+
+    |             |                  |
+    |            NN(n)               NP-OBJ(prep_due)
+    |             |                  |
+    |          software(n)         +--+---+
+    |                              |      |
+    |                              |     NP-OBJ(prep_from)
+    |                              |      |
+    |                              |     NNS(n)
+    |                              |      |
+    |                              +---+--+
+    |                                  |  
+    |                                 JJ(a) 
+    |                                  |
+    |                                overhaul(n)
+    |                                  |
+    +-------+-----+---------+---------+
+            |     |         |         
+           ADVP  ,      NP-SBJ(prep_with)
+            |     |         |         
+            |     |         +------------------+
+            |     |                             |
+           RB(adv)             NP-OBJ(prep_for)
+            |     |                             |
+            |     |                            NNS(n)
+            |     |                             |
+            |     +------+-------------------+ 
+            |            |
+          some(adj)   initial(adj)
+            |            |      
+           stakeholders(n)    resistance(n)
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -32,8 +32,12 @@ Deep Dive into NLP
 5. Perplexity
 
 
-## 
+## Sentence Parsing
 [Sentence Parsing](10_Syntax_and_Parsing)
 1. PSG Parse
 2. Dependency Parse
 3. SRL Parse
+
+
+## Chatbot Project
+[Chatbot Project](Chatbot)
