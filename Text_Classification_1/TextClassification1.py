@@ -12,7 +12,7 @@ from nltk.corpus import stopwords
 
 
 def pre_process_data():
-    # Read csv data in to a pandas Data frame.
+    # Read csv data in to a pandas Data frame
     data = pd.read_csv('/content/sample_data/amazon_reviews.csv')
     # Print first five results
     print(data.head())
@@ -26,7 +26,7 @@ def pre_process_data():
     X = vectorizer.fit_transform(data.Review)
     y = data.Rating
 
-    # Create a Test/ train set with 80% test and 20% test
+    # Create a Test/ train set with 80% test and 20% test.
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, train_size=0.8, random_state=1234)
 
     return X_train, X_test, y_train, y_test
