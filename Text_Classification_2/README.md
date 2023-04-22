@@ -20,7 +20,7 @@ This is a classic example of a text classification problem, where the goal is to
 
 ![Chart, bar chart
 
-Description automatically generated](images/Distribution_of_Sentiment.png)
+Description automatically generated](image/Distribution_of_Sentiment.png)
 
 Overall, observed that using pre-trained embeddings can significantly improve the performance of the model, as compared to using randomly initialized embeddings. Additionally, using a CNN architecture instead of an LSTM-based architecture can also lead to slightly better performance in this case. It was possible to further fine-tune the hyperparameters and try out other models to improve the performance.
 
