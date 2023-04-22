@@ -14,6 +14,11 @@ The results of the text classification task revealed that the Linear and Logisti
 
 In contrast, the SVM Radial algorithm performed poorly due to its regularization parameter. The regularization parameter determines how much the algorithm should avoid misclassifying each training example, and in this case, it caused the optimizer to search for a larger-margin separating hyperplane. This led to the misclassification of more reviews, resulting in poor performance. Naive Bayes algorithm performed reasonably well due to its "assumption of independence" nature, where all items are considered independent of each other. Random Forest algorithm produced a good score but not better than the Logistic Regression algorithm. This is because it requires a large number of “trees in the forest” for training to improve performance.
 
+
+![Distribution of Amazon Review Sentiments](images/Distribution_of_Sentiments.jpg)
+![Frequently Used Words in Negative Reviews](images/Frequently_Used_Words.jpg)
+
+
 **Summary of all the algorithms**
 
 The performance of different algorithms for text classification varies depending on the specific dataset and the problem being solved. In general, each algorithm has its strengths and weaknesses, and the optimal choice can depend on factors such as the size and quality of the data, the number of features, and the computational resources available.
