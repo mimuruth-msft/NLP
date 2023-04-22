@@ -48,4 +48,4 @@ Deep Dive into NLP
 
 
 ## Text Classification 2
-[Text Classification 1](Text_Classification_2)
+[Text Classification 2](Text_Classification_2)
