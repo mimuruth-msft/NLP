@@ -18,9 +18,7 @@ The goal of the model is to predict the sentiment class of each review, based on
 
 This is a classic example of a text classification problem, where the goal is to automatically assign a category or label to a piece of text based on its content. Sentiment analysis is a common application of text classification and is useful in a wide range of domains such as customer feedback analysis, social media monitoring, and product reviews. In this case, the model will be trained to recognize the sentiment expressed in movie reviews, which could be useful for movie studios, film critics, and other stakeholders in the movie industry.
 
-![Chart, bar chart
-
-Description automatically generated](image/Distribution_of_Sentiment.png)
+![Distribution of Sentiment Classes](image/DistributionSentiment.png)
 
 Overall, observed that using pre-trained embeddings can significantly improve the performance of the model, as compared to using randomly initialized embeddings. Additionally, using a CNN architecture instead of an LSTM-based architecture can also lead to slightly better performance in this case. It was possible to further fine-tune the hyperparameters and try out other models to improve the performance.
 
