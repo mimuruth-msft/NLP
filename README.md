@@ -15,15 +15,15 @@ Deep Dive into NLP
 4. POS tagging with NLTK
 
 
-## Guessing Game
+## WordNet
 [WordNet](07_WordNet)
 
 
-## Guessing Game
+## Web Crawler
 [Web Crawler](Web_Crawler)
 
 
-## Guessing Game
+## Ngrams
 [Ngrams](8_N-grams)
 1. N-gram Models
 2. N-grams
@@ -41,3 +41,11 @@ Deep Dive into NLP
 
 ## Chatbot Project
 [Chatbot Project](Chatbot)
+
+
+## Text Classification 1
+[Text Classification 1](Text_Classification_1)
+
+
+## Text Classification 2
+[Text Classification 1](Text_Classification_2)
