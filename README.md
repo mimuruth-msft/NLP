@@ -43,6 +43,10 @@ Deep Dive into NLP
 [Chatbot Project](Chatbot)
 
 
+## ACL Paper Summary
+[ACL Paper Summary](ACL-Paper-Summary)
+
+
 ## Text Classification 1
 [Text Classification 1](Text_Classification_1)
 
